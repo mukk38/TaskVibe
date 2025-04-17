@@ -19,6 +19,7 @@ TaskVibe is a modern project management tool designed for seamless team collabor
 2. **Frontend**:
     - Run `npm install` and `npm start` in the frontend directory.
 3. Open `http://localhost:3000` in your browser.
+![Capture](https://github.com/user-attachments/assets/c99845d8-a36d-47c2-9cfc-3694777f995d)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
